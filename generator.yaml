@@ -726,3 +726,4 @@ ignore:
   # feature. Ignore it here to keep the bump mechanical.
   - CreateClusterOutput.Cluster.CertificateAuthority.Active
   - DescribeClusterOutput.Cluster.CertificateAuthority.Active
+# ACK Autopilot Plan 9 staging e2e: a no-op comment so dod has a head to gate.
